@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# local env
+.env
+
+# logs
+*.log
+
+# compiled JavaScript
+dist/
+
+# IDE
+.vscode/
+.idea/
